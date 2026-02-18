@@ -79,7 +79,7 @@ Feel free to reach out for collaborations or questions regarding the project log
     
 - **🔗 LinkedIn:** [jahirtawhid](https://www.google.com/search?q=https://linkedin.com/in/jahirtawhid)
     
-- **🖥️ GitHub:** https://jahir-tawhid.github.io/my-smart-utilities/
+- **🖥️ Live Link:** https://jahir-tawhid.github.io/my-smart-utilities/](https://jahir-tawhid.github.io/my-smart-utilities/
     
 
 ---
