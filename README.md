@@ -75,9 +75,9 @@ Each tool in this hub is built with specific JavaScript logic to ensure accuracy
 
 Feel free to reach out for collaborations or questions regarding the project logic:
 
-- **📧 Email:** [jahirtawhid1988@gmail.com](mailto:jahirtawhid1988@gmail.com)
+- **📧 Email:** https://www.jahirtawhid1988@gmail.com
     
-- **🔗 LinkedIn:** [jahirtawhid](https://www.google.com/search?q=https://linkedin.com/in/jahirtawhid)
+- **🔗 LinkedIn:** https://linkedin.com/in/jahirtawhid
     
 - **🖥️ Live Link:** https://jahir-tawhid.github.io/my-smart-utilities/
 
